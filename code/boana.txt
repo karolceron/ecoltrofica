@@ -1,0 +1,5 @@
+sp	prey	fo	n	v
+Boana_caiapo	Acari	20	20	0.02
+Boana_caiapo	Araneae	20	20	48.69
+Boana_caiapo	Blattodea	40	40	3.02
+Boana_caiapo	Coleoptera	20	20	48.27
